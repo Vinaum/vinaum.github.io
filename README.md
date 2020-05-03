@@ -46,7 +46,9 @@ Comunicativo, colaborativo, dinâmico, focado em resultados, analítico e com mu
 
 ### Links Úteis
 http://bit.ly/curriculo_alura_vinicius
+
 https://www.linkedin.com/in/viniciussartori/
+
 https://github.com/Vinaum
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
