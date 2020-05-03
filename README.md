@@ -1,10 +1,18 @@
 ## Vinicius Campanha Sartori
 
-You can use the [editor on GitHub](https://github.com/Vinaum/vinaum.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Objetivo Profissional:
+Atuar nas áreas de Recrutamento para tecnologia e/ou Gerenciamento de Projetos Ágeis.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Perfil
 
-### Markdown
+Engenheiro de computação pela UNICAMP e empreendedor, com experiência em gestão, vendas e recursos humanos. 
+Especializado em recrutamento de tecnologia, planejamento de negócios, gerenciamento de projetos e gestão de pessoas. 
+Comunicativo, altamente colaborativo, dinâmico, focado em resultados, analítico e com muita facilidade com trabalho em equipe. Atualmente, cursando MBA - Master Business Administration em Gestão de Pessoas e Resultados pela Inova Business School.
+
+### Formação Acadêmica
+- MBA Executivo - Gestão de Pessoas e Resultados - Inova Business School (Conclusão - Mai/2020)
+- Engenharia de Computação - UNICAMP (Conclusão - Jul/2017)
+- Engenharia Agrícola - UNICAMP (incompleto - mar/2010 a fev/2012)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
